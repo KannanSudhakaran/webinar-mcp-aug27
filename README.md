@@ -15,7 +15,7 @@ Initialized virtual environment
 
 ```bash
 demo>uv venv
-demo>.\venv\Scripts\activate
+demo>.venv\Scripts\activate
 (demo) c:\demo>uv add mcp[cli] requests
 ```
 open the folder in code
