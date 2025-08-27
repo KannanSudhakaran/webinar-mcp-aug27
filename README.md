@@ -14,6 +14,7 @@ cd demo
 Initialized virtual environment
 
 ```bash
+demo>uv init
 demo>uv venv
 demo>.venv\Scripts\activate
 (demo) c:\demo>uv add mcp[cli] requests
